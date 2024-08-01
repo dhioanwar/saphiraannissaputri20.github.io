@@ -1388,6 +1388,8 @@ body {
   }
 }
 
-.container * {
+.not-loaded * {
   animation-play-state: paused !important;
 }
+  
+     
